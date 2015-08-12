@@ -1,2 +1,19 @@
-# SpiderRef
-爬虫资料汇总
+收集写爬虫的相关技术资料以及有用的代码库
+
+####技术博客
+* **Scrapy官方英文文档**: http://doc.scrapy.org/en/latest/index.html
+* **Scrapy官方中文文档**: http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/tutorial.html
+* [使用Scrapy抓取数据](http://www.tuicool.com/articles/ZbEFnya)
+* [Scrapy抓取豆瓣电影](http://www.ituring.com.cn/article/114408#)
+* [知乎：如何入门爬虫](http://www.zhihu.com/question/20899988)
+* [Scrapy爬虫笔记【8-Scrapy核心操作+爬豆瓣图片+数据库链接】](http://www.tuicool.com/articles/7JVvaa)
+* [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+
+#### 开源项目
+* [Cola](https://github.com/chineking/cola) 一个高水平的分布式爬虫框架
+* [Goose ](https://github.com/grangier/python-goose) Html Content / Article Extractor
+* [scrapy-redis](https://github.com/darkrho/scrapy-redis) 基于`Redis`和`Scrapy`的分布式爬虫框架
+* [nvie/rq](https://github.com/nvie/rq) `Python`实现的一个简单的任务队列
+* [Bloom Filter](http://billmill.org/bloomfilter-tutorial/): 一个高效Url过滤，去重库
+*
+

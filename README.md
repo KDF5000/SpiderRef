@@ -19,6 +19,6 @@
 * [nvie/rq](https://github.com/nvie/rq) `Python`实现的一个简单的任务队列
 * [Bloom Filter](http://billmill.org/bloomfilter-tutorial/): 一个高效Url过滤，去重库
 * [Scrapyd](https://github.com/scrapy/scrapyd): 部署监控`scrapy`的工具
-* [scrapy-client](https://github.com/scrapy/scrapyd-client): 与`Scrapyd`结合发布调用`addversion.json`发布`Spider`
+* [scrapy-client](https://github.com/scrapy/scrapyd-client): 与`Scrapyd`结合调用`addversion.json`发布`Spider`
 * [ScrapyJs](https://github.com/scrapinghub/scrapyjs): `scrapy`官方提供的`JS`解决方案
 

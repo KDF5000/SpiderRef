@@ -21,4 +21,5 @@
 * [Scrapyd](https://github.com/scrapy/scrapyd): 部署监控`scrapy`的工具
 * [scrapy-client](https://github.com/scrapy/scrapyd-client): 与`Scrapyd`结合调用`addversion.json`发布`Spider`
 * [ScrapyJs](https://github.com/scrapinghub/scrapyjs): `scrapy`官方提供的`JS`解决方案
+* [RSpider](https://github.com/KDF5000/RSpider): 一个基于`Scrapy-redis`的分布式爬虫模板，实现了`user agent`的随机生成，多个爬虫同事运行，`Scrapy`状态通过`graphite`图形化监控
 

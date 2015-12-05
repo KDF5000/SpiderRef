@@ -11,6 +11,7 @@
 * [PhantomJs](http://phantomjs.org/) : 模拟浏览器解析js，js引擎
 * [CasperJs](http://casperjs.org/): 以及`phantomjs`的js引擎相比`Phantomjs`更加简洁易用
 * [PhantomJs快速入门](http://www.tuicool.com/articles/beeMNj/)
+* [BeautifulSoup教程](http://cuiqingcai.com/1319.html)
 
 #### 开源项目
 * [Cola](https://github.com/chineking/cola) 一个高水平的分布式爬虫框架
